@@ -9,8 +9,12 @@ This is how this app looks like :
 
 ## How to Run :
 
-In the project directory, you can run:
+In the project directory, run these commands on your terminal / cmd :
 
+1) Install dependencies
+### `yarn`
+
+2) Run the app on browser
 ### `yarn start`
 
 Runs the app in the development mode.<br />
